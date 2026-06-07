@@ -18,3 +18,4 @@ export interface ProjectIndexItem {
   updatedAt: string;
   createdAt: string;
 }
+// uzbek
